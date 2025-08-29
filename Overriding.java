@@ -23,7 +23,7 @@ class Dog extends Animal {
     }
 }
 
-public class OverridingOverloadingDemo {
+public class Overriding {
     public static void main(String[] args) {
         Animal a = new Animal();
         a.sound(); 
